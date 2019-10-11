@@ -1,0 +1,2 @@
+1. exec: pip install pyinstaller (if not installed)
+2. pyinstaller -F memm.py
