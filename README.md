@@ -6,4 +6,4 @@ Shows maximum memory usage when process ends work.
 
 
 Usage:
-memm <processName>
+memm \<processName\>
